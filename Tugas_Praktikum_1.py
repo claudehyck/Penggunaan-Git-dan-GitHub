@@ -2,7 +2,7 @@
 
 karakter = {
     "nama" : "Kaz Brekker",   # string
-    "level" : 25,             # int
+    "level" : 34,             # int
     "power" : 96.7,           # float
     "status_hidup" : True     # bool
 }
